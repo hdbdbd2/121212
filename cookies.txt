@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-alhatefalthahbi.site123.me	TRUE	/	FALSE	1999999999	2516035-wishList	deleted
-alhatefalthahbi.site123.me	TRUE	/	FALSE	1999999999	AWSALB	Nwiggr79zsr8oF/0ZwtTeM37TU0/6DXcyx101TRoJa9lBAv2yhTcCdFq/uxj+ZJ9I+haM+veasNUd1fu8jmcLc5UgRwXf7W6J35ZWhnkGqu7GsxWKXE8tFqkJR7M
-
